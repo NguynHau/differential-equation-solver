@@ -96,11 +96,11 @@ The program will compute the symbolic solution and plot the result.
 
 Example outputs
 
-![Direction Field](images/first_order_ode_solver/direction_field.png)
+![Direction Field](images/first_order_ode/direction_field.png)
 
-![Solution Curve](images/first_order_ode_solver/solution_plot.png)
+![Graph_of_the_particular_solution](images/first_order_ode/graph_of_the_particular_solution.png)
 
-![Solution + Direction Field](images/first_order_ode_solver/combined_plot.png)
+![Solution + Direction Field](images/first_order_ode_solver/solution+direction_field.png)
 
 The solver can display
 
@@ -114,7 +114,7 @@ The solver can display
 
 Example output
 
-![Higher Order Solution](images/higher_order_ode_solver/solution_plot.png)
+![Higher Order Solution](images/higher_order_ode/graph_of_the_particular_solutiont.png)
 
 Higher-order equations currently support **solution curve plotting only**.
 
