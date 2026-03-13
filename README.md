@@ -70,27 +70,6 @@ to stop entering conditions.
 
 ---
 
-# Example
-
-Equation
-
-```
-\[
-(x-1)y''' = y''
-\]
-```
-
-Initial conditions
-
-```
-0,2,2
-1,2,1
-2,2,1
-```
-
-The program will compute the symbolic solution and plot the result.
-
----
 
 # Visualization
 
@@ -129,7 +108,9 @@ Solution + Direction Field
 Example equation
 
 ```
-y^3*(x-1) = y^2
+\[
+(x-1)y'''=y''
+\]
 ```
 
 Initial conditions
