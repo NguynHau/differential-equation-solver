@@ -167,11 +167,9 @@ python src/higher_order_ode_solver.py
 differential-equation-solver
 │
 ├── src
-│   ├── first_order_ode_solver.py
-│   └── higher_order_ode_solver.py
-│
-├── notebooks
-│   └── ode_solver.ipynb
+|   └── python
+|         ├── first_order_ode_solver.py
+│         └── higher_order_ode_solver.py
 │
 ├── images
 │   ├── first_order_ode_solver
