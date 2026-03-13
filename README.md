@@ -94,25 +94,49 @@ The program will compute the symbolic solution and plot the result.
 
 ## First-Order ODE Solver
 
-Example outputs
+Example equation
+
+```
+5*y' - 1/(x^3)*y = x^2
+```
+
+Initial condition
+
+```
+y(1) = 4
+```
+
+Direction field
 
 ![Direction Field](images/first_order_ode/direction_field.png)
 
-![Graph_of_the_particular_solution](images/first_order_ode/graph_of_the_particular_solution.png)
+Solution curve
+
+![Solution curve](images/first_order_ode/graph_of_the_particular_solution.png)
+
+Solution + Direction Field
 
 ![Solution + Direction Field](images/first_order_ode/solution+direction_field.png)
-
-The solver can display
-
-- direction field
-- solution curve
-- combined visualization
 
 ---
 
 ## Higher-Order ODE Solver
 
-Example output
+Example equation
+
+```
+y^3*(x-1) = y^2
+```
+
+Initial conditions
+
+```
+y(2) = 2
+y'(2) = 1
+y''(2) = 1
+```
+
+Solution plot
 
 ![Higher Order Solution](images/higher_order_ode/graph_of_the_particular_solution.png)
 
